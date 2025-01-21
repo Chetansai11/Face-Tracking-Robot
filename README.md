@@ -59,7 +59,7 @@ Below is an example of the robot actively tracking a face in real time:
 ### Robot Design  
 The robot's physical structure with its pan-tilt mechanism and 4-wheeled base:  
 
-![Robot Design]([path_to_robot_image.jpg](https://github.com/Chetansai11/Face-Tracking-Robot/blob/main/robot.png))  
+![Robot Design](https://github.com/Chetansai11/Face-Tracking-Robot/blob/main/robot.png)
 *Figure 3: Assembled Face Tracking Robot.*  
 
 ---
